@@ -1,9 +1,6 @@
-## Hey I'm Trinity 👋
+## Welcome to my Github profile, I'm Trinity 👋☺️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📚 University of Alberta, BSc Specialization in Computer Science & Data Science Certificate
+- 📚 Third year at University of Alberta, BSc Specialization in Computer Science & Data Science Certificate
 - 📫 How to reach me: trinityythai@gmail.com or [Linkedin](https://www.linkedin.com/in/trinity-thai-902a6919a/)
 
 # Languages and Tools
