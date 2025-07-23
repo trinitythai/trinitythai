@@ -3,11 +3,11 @@
 - 📚 I'm headed into my 4th year at the University of Alberta!! (BSc Specialization in Computer Science & Data Science Certificate)
 
 Currently: 
-- 🦾 I'm working on slip detection in a prosthetic hand during my internship at the BLINC Lab at the UofA!
+- 🦾 I'm working on slip detection in a prosthetic hand during my internship at the BLINC Lab at the UofA! 
 
 Previous Internships: 
-- 👾 I've worked on developing a life simulation video game with a previous Phd student
-- 🩺 I've analyzed data on how doctors train residents 
+- 👾 I've developed a cozy life simulation video game with a previous Phd student
+- 🩺 I've analyzed data on how doctors train residents with the Hamza Lab at the UofA
 
 Schoolwork: 
 - 💻 I've made an Android app, built websites, and done lots of cool stuff though software engineering courses. I aspire to learn and continually grow as a computing scientist :)
