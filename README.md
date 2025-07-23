@@ -13,7 +13,7 @@ Schoolwork:
 - 💻 I've made an Android app, built websites, and done lots of cool stuff though software engineering courses. I aspire to learn and continually grow as a computing scientist :)
 
 In my free time: 
-- 🕺 For fun, I like to rock climb, read books, and jump horses!!
+- 🕺 For fun, I like to rock climb, read books, and jump horses!! I also really like Snoopy :))
 
 📫 Please reach out to me (I'm looking to break into industry): trinityythai@gmail.com or [Linkedin](https://www.linkedin.com/in/trinity-thai-902a6919a/)
   
