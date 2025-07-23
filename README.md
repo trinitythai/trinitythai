@@ -2,7 +2,7 @@
 
 - 📚 I'm headed into my 4th year at the University of Alberta!! (BSc Specialization in Computer Science & Data Science Certificate)
 - 🦾 I'm working on slip detection in a prosthetic hand during my internship at the BLINC Lab at the UofA!
-- 💻 I've made an Android app, built websites, and more though software engineering courses. I aspire to learn and continually grow as a computing scientist :)
+- 💻 I've made an Android app, built websites, and done lots of cool stuff though software engineering courses. I aspire to learn and continually grow as a computing scientist :)
 - 🕺 For fun, I like to rock climb, read books, and jump horses!!
 
 📫 Please reach out to me: trinityythai@gmail.com or [Linkedin](https://www.linkedin.com/in/trinity-thai-902a6919a/)
