@@ -15,7 +15,7 @@ Schoolwork:
 In my free time: 
 - 🕺 For fun, I like to rock climb, read books, and jump horses!!
 
-📫 Please reach out to me: trinityythai@gmail.com or [Linkedin](https://www.linkedin.com/in/trinity-thai-902a6919a/)
+📫 Please reach out to me (I'm looking to break into industry): trinityythai@gmail.com or [Linkedin](https://www.linkedin.com/in/trinity-thai-902a6919a/)
   
 # Languages and Tools
 
